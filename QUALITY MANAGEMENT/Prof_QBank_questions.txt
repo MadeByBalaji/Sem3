@@ -1,0 +1,227 @@
+UNIT 1 — Principles of Quality Management &
+Understanding Quality
+106. Explain Deming's philosophy of quality management and discuss its
+relevance to modern organisations.
+Rubric — 5 Marks
+Expected element Marks
+Explanation of Deming's quality philosophy 1
+Discussion of variation and system thinking 1
+Continuous improvement and PDCA orientation 1
+Employee involvement and leadership 1
+Application to modern organisations 1
+Total 5
+107. Explain Crosby's theory of quality and discuss the significance of “zero
+defects”.
+Rubric — 5 Marks
+Expected element Marks
+Crosby's concept of quality as conformance to requirements 1
+Prevention rather than inspection 1
+Expected element Marks
+Zero-defects philosophy 1
+Cost of quality / price of non-conformance 1
+Practical organisational application 1
+Total 5
+108. Explain the characteristics of effective quality leaders and their role in
+customer-oriented quality management.
+Rubric — 5 Marks
+Expected element Marks
+Quality vision and commitment 1
+Customer orientation 1
+Employee involvement and empowerment 1
+Data-based decision-making and continuous improvement 1
+Creating a quality culture 1
+Total 5
+UNIT 2 — Quality Planning & Quality
+Control
+109. Explain the quality planning process and discuss the role of SMART goals
+in quality improvement.
+Rubric — 5 Marks
+Expected element Marks
+Meaning and purpose of quality planning 1
+Identification of customer/process requirements 1
+Setting measurable quality objectives 1
+Explanation of SMART characteristics 1
+Monitoring and corrective action 1
+Total 5
+110. Explain process capability and discuss the significance of Cp and Cpk in
+quality control.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of process capability 1
+Explanation of specification limits 1
+Cp concept 1
+Cpk concept and centering 1
+Interpretation for process improvement 1
+Total 5
+111. Explain control charts and discuss how they distinguish common-cause and
+special-cause variation.
+Rubric — 5 Marks
+Expected element Marks
+Purpose of control charts 1
+Central line and control limits 1
+Common-cause variation 1
+Special-cause variation 1
+Interpretation and corrective action 1
+Total 5
+UNIT 3 — TQM, Statistical Tools & Quality
+Awards
+112. Explain the concept, features and building blocks of Total Quality
+Management.
+Rubric — 5 Marks
+Expected element Marks
+Definition/concept of TQM 1
+Customer focus 1
+Employee involvement 1
+Continuous improvement and process approach 1
+Organisation-wide quality culture 1
+Total 5
+113. Explain the traditional seven quality control tools and their major
+applications.
+Rubric — 5 Marks
+Expected element Marks
+Identification of quality tools 1
+Check sheet and histogram 1
+Pareto chart and cause-and-effect diagram 1
+Control chart and scatter diagram 1
+Flowchart/application of tools 1
+Total 5
+114. Explain the Malcolm Baldrige National Quality Award and discuss its
+relevance to organisational excellence.
+Rubric — 5 Marks
+Expected element Marks
+Meaning and purpose of MBNQA 1
+Leadership 1
+Strategy and customer focus 1
+Measurement, workforce and operations 1
+Results and organisational excellence 1
+Total 5
+UNIT 4 — Quality Toolkit & Quality
+Improvement
+115. Explain Root Cause Analysis and Cause-and-Effect Analysis as quality
+improvement techniques.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of Root Cause Analysis 1
+Difference between symptom and root cause 1
+Cause-and-effect/Ishikawa diagram 1
+Expected element Marks
+Investigation and evidence-based analysis 1
+Corrective action based on identified causes 1
+Total 5
+116. Explain the 5S methodology and discuss how it contributes to workplace
+quality.
+Rubric — 5 Marks
+Expected element Marks
+Sort 1
+Set in Order 1
+Shine 1
+Standardise 1
+Sustain and quality benefits 1
+Total 5
+117. Explain Poka-yoke and continuous improvement techniques with suitable
+organisational applications.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of Poka-yoke 1
+Prevention of human error 1
+Examples of mistake-proofing 1
+Meaning and principles of continuous improvement/Kaizen 1
+Application and benefits 1
+Total 5
+UNIT 5 — Six Sigma, ISO, New Quality
+Tools & QFD
+118. Explain Six Sigma and the DMAIC methodology.
+Rubric — 5 Marks
+Expected element Marks
+Meaning and objective of Six Sigma 1
+Define 1
+Measure and Analyse 1
+Improve 1
+Control and sustained improvement 1
+Total 5
+119. Explain FMEA and discuss how it helps organisations prevent potential
+failures.
+Rubric — 5 Marks
+Expected element Marks
+Meaning and purpose of FMEA 1
+Identification of failure modes 1
+Severity, occurrence and detection 1
+Risk prioritisation 1
+Preventive/corrective actions 1
+Total 5
+120. Explain Quality Function Deployment and the House of Quality. Discuss
+their benefits.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of QFD 1
+Voice of customer 1
+Technical requirements 1
+House of Quality relationships 1
+Benefits in product/service design 1
+Total 5
+UNIT 6 — TPM, Reliability, Maintainability
+& Availability
+121. Explain TPM, its concept and need, and discuss its contribution to
+equipment effectiveness.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of TPM 1
+Need for TPM 1
+Employee/operator involvement 1
+Preventive and autonomous maintenance 1
+Equipment effectiveness and quality benefits 1
+Total 5
+122. Explain the bathtub curve and discuss the three major phases of failure
+behaviour.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of bathtub curve 1
+Early-life/infant mortality failures 1
+Useful-life/random failure period 1
+Wear-out period 1
+Maintenance/reliability implications 1
+Total 5
+123. Explain system reliability for series and parallel configurations and discuss
+reliability improvement through redundancy.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of reliability 1
+Series configuration and reliability relationship 1
+Parallel configuration and reliability relationship 1
+Concept of redundancy 1
+Reliability improvement through redundancy 1
+Total 5
+UNIT 7 — Maintainability, Quality Cost &
+Service Quality
+124. Explain maintainability, MTTR, MTBF and availability and discuss their
+interrelationship.
+Rubric — 5 Marks
+Expected element Marks
+Meaning of maintainability 1
+MTTR 1
+MTBF 1
+Availability relationship 1
+Practical maintenance implications 1
+Total 5
+125. Explain the GAP Model of customer satisfaction and discuss the major
+service quality gaps.
+Rubric — 5 Marks
+Expected element Marks
+Concept of GAP Model 1
+Knowledge/understanding gap 1
+Design/specification and delivery gaps 1
+Communication and customer gap 1
+Use of gap analysis for service improvement 1
+Total 5
+126. Explain the SERVQUAL model and discuss the dimensions used to evaluate
+service quality.
+Rubric — 5 Marks
+Expected element Marks
+Meaning and purpose of SERVQUAL 1
+Tangibles 1
+Reliability and responsiveness 1
+Assurance and empathy 1
+Expected element Marks
+Expectations–perceptions comparison and application 1
+Total 5
+******************************************************************************
